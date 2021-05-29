@@ -159,3 +159,7 @@ ul {
 .link {
   padding: 30px 30px 20px;
 }
+.shrink {
+  width: 50%;
+  height: 50%;
+}
